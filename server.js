@@ -7,7 +7,7 @@ const { port } = require('./settings/config.json');
 
 // Define Listeners
 app.get('/', (req, res) => {
-    res.status(200).sendDate();
+    res.status(200).send("hello, world.");
 });
 
 app.get('/api/artists/', (req, res) => {
