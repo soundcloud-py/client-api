@@ -1,0 +1,25 @@
+{
+  "name": "client-api",
+  "version": "1.0.0",
+  "description": "Well, I don't know.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundcloud-py/client-api.git"
+  },
+  "keywords": [
+    "soundcloud"
+  ],
+  "author": "BookishWaffle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soundcloud-py/client-api/issues"
+  },
+  "homepage": "https://github.com/soundcloud-py/client-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
