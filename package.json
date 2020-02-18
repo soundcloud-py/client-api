@@ -4,7 +4,8 @@
   "description": "Well, I don't know.",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "test": "node server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -14,6 +15,9 @@
     "soundcloud"
   ],
   "author": "BookishWaffle",
+  "contributors": [
+    "Artucuno1234"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/soundcloud-py/client-api/issues"
